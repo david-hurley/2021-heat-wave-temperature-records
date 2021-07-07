@@ -10,4 +10,4 @@ To Use:
 5. start a Jupyter Notebok or Lab instance and open ```Heat Wave Analysis.ipynb```
 6. run the notebook
 
-![Screenshot](record-breaking-temperatures.png)
+![GitHub Logo](record-breaking-temperatures.jpg)
