@@ -10,4 +10,4 @@ To Use:
 5. start a Jupyter Notebok or Lab instance and open ```Heat Wave Analysis.ipynb```
 6. run the notebook
 
-![Record Breaking Heat Wave](record-breaking-temperatures.jpg)
+![Record Breaking Heat Wave](record-breaking-temperature-map.png)
